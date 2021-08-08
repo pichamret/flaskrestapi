@@ -94,6 +94,7 @@
       <workItem from="1628246236283" duration="3784000" />
       <workItem from="1628262969755" duration="8851000" />
       <workItem from="1628316497960" duration="15164000" />
+      <workItem from="1628437084940" duration="871000" />
     </task>
     <servers />
   </component>
@@ -105,13 +106,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flaskrestapi$APIFinal.coverage" NAME="APIFinal Coverage Results" MODIFIED="1628437118676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/APIFinal$APIFinal.coverage" NAME="APIFinal Coverage Results" MODIFIED="1628415457118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
