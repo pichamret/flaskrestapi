@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="769a2752-cd4e-401a-bad3-99dbd832cca3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vd8QQULjoW29LsDutzG0XsBqPd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Classes" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\Year 4\Python\APIFinal\Classes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="APIFinal" type="Python.FlaskServer">
+      <option name="flaskDebug" value="true" />
+      <module name="APIFinal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="flask_run_port" value="5001" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Study\Year 4\Python\APIFinal\env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="769a2752-cd4e-401a-bad3-99dbd832cca3" name="Default Changelist" comment="" />
+      <created>1626880588172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626880588172</updated>
+      <workItem from="1626880589494" duration="2498000" />
+      <workItem from="1626926242712" duration="3218000" />
+      <workItem from="1626937605944" duration="4730000" />
+      <workItem from="1627039741792" duration="557000" />
+      <workItem from="1627040307333" duration="5272000" />
+      <workItem from="1627059955284" duration="2152000" />
+      <workItem from="1627184553275" duration="13562000" />
+      <workItem from="1627826490454" duration="3702000" />
+      <workItem from="1627831409124" duration="6951000" />
+      <workItem from="1627965918192" duration="595000" />
+      <workItem from="1628001956784" duration="5875000" />
+      <workItem from="1628048445754" duration="1195000" />
+      <workItem from="1628173081628" duration="3513000" />
+      <workItem from="1628219174695" duration="889000" />
+      <workItem from="1628220309945" duration="2696000" />
+      <workItem from="1628225248638" duration="1654000" />
+      <workItem from="1628229768778" duration="582000" />
+      <workItem from="1628246236283" duration="3784000" />
+      <workItem from="1628262969755" duration="8851000" />
+      <workItem from="1628316497960" duration="15164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/APIFinal$APIFinal.coverage" NAME="APIFinal Coverage Results" MODIFIED="1628415457118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
